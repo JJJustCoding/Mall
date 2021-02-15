@@ -1,0 +1,11 @@
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+
+
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+**/target/
+
+.idea
